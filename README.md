@@ -55,9 +55,9 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 ## Badges/Insignias
 
-- **Última versión**: [![GitHub release](https://img.shields.io/github/release/tuusuario/DownTune.svg)](https://github.com/tuusuario/DownTune/releases)
-- **Total de descargas**: [![Descargas](https://img.shields.io/github/downloads/tuusuario/DownTune/total.svg)](https://github.com/tuusuario/DownTune/releases)
-- **Licencia**: [![License](https://img.shields.io/github/license/tuusuario/DownTune.svg)](https://github.com/tuusuario/DownTune/blob/main/LICENSE)
+- **Última versión**: [![GitHub release](https://img.shields.io/github/release/MidGardStd/DownTune.svg)](https://github.com/MidGardStd/DownTune/releases)
+- **Total de descargas**: [![Descargas](https://img.shields.io/github/downloads/MidGardStd/DownTune/total.svg)](https://github.com/MidGardStd/DownTune/releases)
+- **Licencia**: [![License](https://img.shields.io/github/license/MidGardStd/DownTune.svg)](https://github.com/MidGardStd/DownTune/blob/main/LICENSE)
 
 ---
 
