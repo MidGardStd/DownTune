@@ -1,8 +1,7 @@
 # DownTune - App para Descargar Música y Videos de YouTube
 
-[![GitHub release](https://img.shields.io/github/release/tuusuario/DownTune.svg)](https://github.com/tuusuario/DownTune/releases) 
-[![Descargas](https://img.shields.io/github/downloads/tuusuario/DownTune/total.svg)](https://github.com/tuusuario/DownTune/releases)
-[![License](https://img.shields.io/github/license/tuusuario/DownTune.svg)](https://github.com/tuusuario/DownTune/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/MidGardStd/DownTune.svg)](https://github.com/MidGardStd/DownTune/releases)
+[![Descargas](https://img.shields.io/github/downloads/MidGardStd/DownTune/total.svg)](https://github.com/MidGardStd/DownTune/releases)
 
 **DownTune** es una aplicación de escritorio creada en Python utilizando **CustomTkinter** que permite a los usuarios descargar música y videos de plataformas como YouTube, TikTok, Instagram, entre otros. La aplicación proporciona una interfaz amigable, opciones de calidad, y soporte para diferentes formatos.
 
